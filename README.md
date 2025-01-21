@@ -4,7 +4,7 @@ This repo contains some (personal) notes as preparation for Red Hat EX200. Red H
 
 ### Less
 
-I've always been using cat to view the content of a file, but I really prefer to keep my hands as much as possible on my keyboard. The downside of using cat is that you'll need to switch to your mouse to scroll up and down when you have files with many many lines. And here's where less is a better alternative. When you replace cat with less, you can use your arrows keys to "scroll" up and down, but even better; you can use the 'j' and 'k' keys to move down and up. 
+I've always been using cat to view the content of a file, but I really prefer to keep my hands as much as possible on my keyboard. The downside of using cat is that you'll need to switch to your mouse to scroll up and down when you have files with many many lines. And here's where less is a better alternative. When you replace cat with less, you can use your arrow keys to "scroll" up and down, but even better; you can use the 'j' and 'k' keys to move down and up. 
 
 ### Wc
 
